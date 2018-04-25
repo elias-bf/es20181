@@ -1,0 +1,12 @@
+Aula sobre Versionamento utilizando o git
+
+Áreas do git
+	* Work directory
+	* Stage Area
+	* Git directory (ou repositório)
+
+Movimentação entre áreas
+	* Work directory -> Stage Area
+		git add nomeArquivo
+	* Stage Area -> Git Directory
+		git commit -m "Mensagem"

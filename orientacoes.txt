@@ -10,3 +10,14 @@ Movimentação entre áreas
 		git add nomeArquivo
 	* Stage Area -> Git Directory
 		git commit -m "Mensagem"
+
+Como se identificar no git
+	* É necessário se identificar para gerar versões dos arquivos (ou seja, fazer commit)
+	git config user.name "Seu nome"
+	git config user.email "seu@email"
+
+Comandos:
+	* Listar arquivos modificados (alterados ou criados
+		git status
+	* Listar arquivos que o git "enxerga"
+		git ls-files

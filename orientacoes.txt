@@ -26,3 +26,5 @@ Comandos:
 		git long nomeDoArquivo
 		git whatchaged 
 		git whatcnaged nomeDoArquivo
+	* Voltar ultima versão de um arquivo que está no repositório (git directory)
+		git checkout nomeArquivo

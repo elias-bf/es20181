@@ -28,3 +28,5 @@ Comandos:
 		git whatcnaged nomeDoArquivo
 	* Voltar ultima versão de um arquivo que está no repositório (git directory)
 		git checkout nomeArquivo
+	* Retirar um arquivo da área de Stage
+		git reset HEAD nomeArquivo

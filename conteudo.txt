@@ -1,0 +1,1 @@
+Resumo da aula: aula sobre versionamento e uso da ferramenta git

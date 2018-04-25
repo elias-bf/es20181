@@ -21,3 +21,8 @@ Comandos:
 		git status
 	* Listar arquivos que o git "enxerga"
 		git ls-files
+	* Mostrar o histórico das modificações/versões
+		git log
+		git long nomeDoArquivo
+		git whatchaged 
+		git whatcnaged nomeDoArquivo

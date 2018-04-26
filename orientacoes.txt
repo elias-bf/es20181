@@ -32,3 +32,8 @@ Comandos:
 		git reset HEAD nomeArquivo
 	* Criar/Clonar uma cópia de um repositório hospedado no github
 		git clone https://github.com/elias-bf/es20181.git
+	* Comando para enviar os dados para repositório do github (repositório remoto)
+		git push
+	* Comando para buscar os dados do repositório remoto
+		git pull
+

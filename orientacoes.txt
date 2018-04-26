@@ -30,3 +30,5 @@ Comandos:
 		git checkout nomeArquivo
 	* Retirar um arquivo da área de Stage
 		git reset HEAD nomeArquivo
+	* Criar/Clonar uma cópia de um repositório hospedado no github
+		git clone https://github.com/elias-bf/es20181.git

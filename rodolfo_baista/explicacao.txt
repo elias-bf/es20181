@@ -1,0 +1,5 @@
+git ls_files
+	Lista os arquivos que o git "encherga", que estão sendo controlados(indexados) pelo git.
+
+git status
+	Este comando mostra o atual estado dos arquivos alterados, especificando quais arquivos ainda precisam ser adicionados(add) a "Stage Area" e quais arquivos estão nessa area esperando a criação da nova verção(commit) e descriçao de modificação.

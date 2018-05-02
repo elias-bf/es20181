@@ -1,0 +1,2 @@
+git status => Listar arquivos modificados
+git ls-files => Listar arquivos que o git "enxerga"
